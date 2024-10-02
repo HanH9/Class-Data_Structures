@@ -1,0 +1,20 @@
+7122 ICSI 213 Data Structures  Undergraduate
+9797 ICSI 311 Principles of Programming Languages  Undergraduate
+9397 AAFS 209 Black American Music  Undergraduate
+3980 HHPM 645 Global Health  Graduate
+3125 ICSI 322 Data Base  Undergraduate
+3205 ICSI 323 Programming  Undergraduate
+1235 ICSI 422 Computational Thinking  Undergraduate
+6605 ICSI 711 Game Design  Undergraduate
+9805 ICSI 966 Game Development  Undergraduate
+5555 ICSI 822 Game Modeling  Undergraduate
+2180 HHPM 645 Discrete Structures  Graduate
+3180 AAFS 645 Linear Algebra  Graduate
+4480 HHPM 645 Physiological Health  Graduate
+1980 HHPM 645 Mental Health  Graduate
+6655 ICSI 822 Computer Systems  Undergraduate
+7755 AAFS 822 Linear sets  Undergraduate
+1255 AAFS 822 Mathematical modeling  Undergraduate
+2155 ICSI 822 Game Modeling  Undergraduate
+8080 HHPM 645 Global Population  Graduate
+1001 ICSI 822 Operating System  Undergraduate
